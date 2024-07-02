@@ -1,4 +1,4 @@
-[![MasterHead]([https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d))](http://shrikantjk)
+[![MasterHead](https://camo.githubusercontent.com/410692453565c8609eea9618bfafcfd200288a6dab6d8a23b8205251173b525a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)](http://shrikantjk)
 <h1 align="center">Hi 👋, I'm Shrikant Jakanur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
